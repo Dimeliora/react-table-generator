@@ -12,7 +12,7 @@
 
 В качестве источника данных использован публичный API [Public APIs](https://api.publicapis.org).
 
-## Используемые технологии
+## Используемые технологии/библиотеки
 
 - ReactJS (create-react-app)
 - ReactJS Hooks
